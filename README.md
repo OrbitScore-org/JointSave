@@ -3,8 +3,6 @@
   
   # JointSave
 
-  [![CI – Build & Test Soroban Contracts](https://github.com/OrbitScore-org/JointSave/actions/workflows/test.yml/badge.svg)](https://github.com/OrbitScore-org/JointSave/actions/workflows/test.yml)
-
   A decentralized community savings platform built on Stellar, enabling trusted groups to automate contributions, payouts, and transparency using Soroban smart contracts.
 </div>
 
