@@ -3,7 +3,7 @@
   
   # JointSave
 
-  [![CI – Build & Test Soroban Contracts](https://github.com/Sendi0011/Joint_Save/actions/workflows/test.yml/badge.svg)](https://github.com/Sendi0011/Joint_Save/actions/workflows/test.yml)
+  [![CI – Build & Test Soroban Contracts](https://github.com/OrbitScore-org/JointSave/actions/workflows/test.yml/badge.svg)](https://github.com/OrbitScore-org/JointSave/actions/workflows/test.yml)
 
   A decentralized community savings platform built on Stellar, enabling trusted groups to automate contributions, payouts, and transparency using Soroban smart contracts.
 </div>
@@ -200,7 +200,7 @@ JointSave demonstrates several advanced Soroban patterns:
 We welcome contributions from the community! Here's how you can help:
 
 ### Development
-- 🐛 **Bug Reports** – Found an issue? [Open an issue](https://github.com/Sendi0011/Joint_Save/issues)
+- 🐛 **Bug Reports** – Found an issue? [Open an issue](https://github.com/OrbitScore-org/JointSave/issues)
 - 💡 **Feature Requests** – Have an idea? We'd love to hear it
 - 🔧 **Code Contributions** – Submit pull requests for improvements
 - 📖 **Documentation** – Help improve our docs and guides
@@ -224,9 +224,9 @@ We welcome contributions from the community! Here's how you can help:
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/Sendi0011/Joint_Save/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Sendi0011/Joint_Save/discussions)
-- **Email**: [Contact the team](mailto:support@jointsave.app)
+- **Issues**: [GitHub Issues](https://github.com/OrbitScore-org/JointSave/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/OrbitScore-org/JointSave/discussions)
+- **Email**: [Contact the team](mailto:johnsendi727@gmail.com)
 
 ## License
 
@@ -240,6 +240,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Powered by [Stellar](https://stellar.org) • [Soroban](https://soroban.stellar.org) • [Next.js](https://nextjs.org)*
 
-[Live Demo](https://joint-save.vercel.app) • [Watch Video](https://youtu.be/Iuy-As9im7A) • [View Code](https://github.com/Sendi0011/Joint_Save)
+[Live Demo](https://joint-save.vercel.app) • [Watch Video](https://youtu.be/Iuy-As9im7A) • [View Code](https://github.com/OrbitScore-org/JointSave)
 
 </div>
