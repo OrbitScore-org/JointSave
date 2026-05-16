@@ -1267,9 +1267,9 @@ npm run dev
 
 ### Contact & Support
 
-Project Repository: https://github.com/Sendi0011/Joint_Save
+Project Repository: https://github.com/OrbitScore-org/JointSave
 Live Demo: https://joint-save.vercel.app
-Issues: https://github.com/Sendi0011/Joint_Save/issues
+Issues: https://github.com/OrbitScore-org/JointSave/settings/issues
 
 ---
 
